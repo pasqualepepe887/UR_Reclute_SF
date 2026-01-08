@@ -1,5 +1,5 @@
 # UR_Reclute_SF
-Progetto Reclute Unina Rocket - Software
+Progetto Reclute Unina Rocket - Software (Pasquale Pepe)
 
 # Shield Monitoraggio Batteria 12V e GPS GNSS 
 Questo progetto consiste in un sistema di monitoraggio basato su STM32F401RE progettato per acquisire dati di posizione globale e monitorare la tensione di una sorgente esterna a 12V. Il sistema integra un modulo Teseo-LIV4F e una logica di gestione energetica basata su stati.
