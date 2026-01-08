@@ -20,7 +20,7 @@ Lo Shield utilizza la seguente mappatura dei pin sulla scheda Nucleo-F401RE:
 
 ## Logica di Funzionamento
 Il firmware implementa una macchina a stati finiti gestita dall'interruttore su PB3:
-1) **Modalità WAIT** (Interruttore Aperto/RESET):
+1) **Modalità WAIT**:
 
 * Il LED su PA6 rimane fisso.
 
@@ -30,7 +30,7 @@ Il firmware implementa una macchina a stati finiti gestita dall'interruttore su 
 
 ---------------------------------------------------------
   
-2) **Modalità RECEIVE** (Interruttore a GND/SET):
+2) **Modalità RECEIVE**:
 
 * Il LED su PA6 lampeggia.
 
